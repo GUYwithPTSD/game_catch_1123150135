@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "tsag_week1_s6_1123150135" "\0"
+            VALUE "FileDescription", "fruit_catcher_s6" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "tsag_week1_s6_1123150135" "\0"
+            VALUE "InternalName", "fruit_catcher_s6" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "tsag_week1_s6_1123150135.exe" "\0"
-            VALUE "ProductName", "tsag_week1_s6_1123150135" "\0"
+            VALUE "OriginalFilename", "fruit_catcher_s6.exe" "\0"
+            VALUE "ProductName", "fruit_catcher_s6" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
